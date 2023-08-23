@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/listFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_batman_menu"
+        android:title="Games"/>
+
+    <item
+        android:id="@id/favoriteFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favoritos"/>
+
+    <item
+        android:id="@id/listadoFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_crear"
+        android:title="Elementos"/>
+
+    <item
+        android:id="@id/infoFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:title="INFO"/>
+
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026354277072",
+    "project_id": "examenfinal-61e36",
+    "storage_bucket": "examenfinal-61e36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026354277072:android:6ec32752555937df154cd5",
+        "android_client_info": {
+          "package_name": "com.mocarrojavier.examenfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026354277072-7l6fdjkeq0a9djjr5p5nkpv0kah0bl86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mocarrojavier.examenfinal",
+            "certificate_hash": "54f020b87629b63f3fb23d769a9c44950fe0c389"
+          }
+        },
+        {
+          "client_id": "1026354277072-a8lvj2rav32iimaceqvv803eucugc9me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw34uW42_DWaVDBtxctxyBzcyIpL8KrWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026354277072-a8lvj2rav32iimaceqvv803eucugc9me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
